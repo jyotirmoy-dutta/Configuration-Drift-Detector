@@ -1,0 +1,2 @@
+[console_scripts]
+configdrift = configdrift.__main__:main

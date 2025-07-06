@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: configdrift
+Version: 0.1.0
+Summary: Cross-platform Configuration Drift Detector (CLI & GUI)
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: rich
+Requires-Dist: PyQt5
+Requires-Dist: colorama
+Requires-Dist: click
+Requires-Dist: diff-match-patch
